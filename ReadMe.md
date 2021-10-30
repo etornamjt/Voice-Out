@@ -1,10 +1,10 @@
-#ASYTECH PROJECTION DIVISIONS
+# ASYTECH PROJECTION DIVISIONS
 
 
-• Sign in
- • Database (Just about 5 individual information)
- • Wrong password (pop up box appears saying “Wrong password please sign in again”)
- • Sign up page
+- Sign in
+- Database (Just about 5 individual information)
+- Wrong password (pop up box appears saying “Wrong password please sign in again”)
+- Sign up page
  ⁃ First name, last name (info should match that on the card)
  ⁃ DOB, Gender
  ⁃ Create secure password 
